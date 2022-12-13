@@ -283,6 +283,7 @@
 
 .portfolio-img {
     position: relative;
+    padding: 10vh;
 }
 
 .portfolio-btn {
@@ -306,7 +307,9 @@
     padding-bottom: 30px !important;
 }
 
-
+.about-me-exp{
+    padding: 8vh;
+}
 /*** Team ***/
 .team-item img {
     transition: .5s;
